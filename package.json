@@ -37,7 +37,6 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "puppeteer": "^18.1.0",
-    "serve": "^14.2.1"
+    "puppeteer": "^18.1.0"
   }
 }
